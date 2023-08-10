@@ -1,5 +1,5 @@
 # Header
-navname: 异市界始解 Worlds-Mirror
+navname: 摸鱼时间 MoYuTime
 
 # navigatior items
 nav:
@@ -11,10 +11,10 @@ nav:
 favicon: ./image/img.jpg
 
 # Profile
-nickname: 异市界始解 Worlds-Mirror
+nickname: 摸鱼时间 MoYuTime
 
 ### this variable is MarkDown form.
-description: 市场也是世界，识解需要始解。 能推开门的不一定是人、猫，鱼也可以。 欢迎来到镜子的世界
+description: 这里是 「摸鱼时间 MoYuTime」主播们是目前在中美的一群互联网打工人。 朋友间互相畅聊时事观点，日常摸鱼。 摸鱼好耶！ 目前主要我的 solo 回比较多，主要会通过一些古籍探索为主流历史叙事常常忽略的边角料。
 avatar: /image/img.jpg
 
 # main menu navigation
@@ -30,7 +30,7 @@ links:
 #  Publish:
 #  Trophy:
 #  Gallary:
-  RSS: https://podcastsarchive.github.io/Worlds-Mirror/rss2.xml
+  RSS: https://podcastsarchive.github.io/moyutime/rss2.xml
 #  AliPay:
   # ZhiHu: https://www.zhihu.com/people/lfkdsk
 #  LinkedIn:
